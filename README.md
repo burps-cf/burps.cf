@@ -1,6 +1,6 @@
-# Budget Unhinged Robot Propulsion Systems
+# Welcome!
 
-Welcome! We are designers of poor man's unconventional ways of propelling robots.
+We are designers of poor man's unconventional ways of propelling robots.
 
 We're just starting, so not much to see yet...
 
